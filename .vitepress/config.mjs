@@ -18,7 +18,7 @@ export default defineConfig({
       {
         text: 'Getting Started',
         items: [
-          { text: '💰 Pricing & Licensing', link: '/pricing-lnpmicensing' },
+          { text: '💰 Pricing & Licensing', link: '/pricing-licensing' },
           { text: '📦 Installation', link: '/installation' },
           { 
             text: 'Setup',
